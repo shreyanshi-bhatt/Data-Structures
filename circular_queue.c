@@ -1,5 +1,5 @@
 //Circular Queue program
-// IMP FORMULA : i=(i+1)/MAX
+// IMP FORMULA : i=(i+1)%MAX
 #include<stdio.h>
 #include<stdlib.h>
 #define MAX 5
